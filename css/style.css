@@ -2,3 +2,11 @@
   font-size: 17px;
   color: rgb(198, 177, 177, 0.2)
 }
+
+.NEW{
+  border-collapse: collapse;
+}
+
+.NEW td {
+  padding: 10px
+}
